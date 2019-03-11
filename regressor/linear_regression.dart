@@ -1,9 +1,5 @@
 import 'dart:math';
 
-class SimpleLinearRegression {
+class SimpleLinearRegression {}
 
-}
-
-class MultipleLinearRegression {
-
-}
+class MultipleLinearRegression {}

@@ -1,3 +1,1 @@
-class PolynomialRegression {
-  
-}
+class PolynomialRegression {}
