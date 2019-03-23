@@ -1,3 +1,0 @@
-class DecisionTreeClassifier {}
-
-class RandomForestClassifier {}
