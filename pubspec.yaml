@@ -2,4 +2,7 @@ name: medula
 description: A dart library for machine learning algorithms
 version: 0.0.1
 homepage: https://github.com/rshrc/medula
-author: Team Medula
+author: Team Medula <rishieric91@gmail.com>
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
