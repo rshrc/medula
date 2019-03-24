@@ -1,6 +1,6 @@
 name: medula
-description: A dart library for machine learning algorithms
-version: 0.0.1
+description: A Dart library for machine learning algorithms making it easy for Flutter Developers to write custom machine learning systems inside the mobile app itself.
+version: 0.0.2
 homepage: https://github.com/rshrc/medula
 author: Team Medula <rishieric91@gmail.com>
 
